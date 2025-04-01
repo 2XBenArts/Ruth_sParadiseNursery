@@ -59,11 +59,11 @@ The application consists of three main pages:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/patel33hardik/ReactFinalProjectPlantShop.git
-
+   git clone https://github.com/2XBenArts/Ruth_sParadiseNursery
+   
 2. Navigate to the project directory:
     ```bash
-    cd ReactFinalProjectPlantShop
+    cd Ruth_sParadiseNursery
     
 3. Install dependencies:
    ```bash
